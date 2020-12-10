@@ -122,6 +122,9 @@ include:
   - .htaccess
   - _pages
   - files
+  - "portfolio/*.pdf"
+  - "portfolio/papers/*.pdf"
+  - "portfolio/*.md"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
