@@ -5,10 +5,6 @@ permalink: /posts/2020/04/blog-post-1/
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTUwMTgwOSwtNzg2MjkwNTk5XX0=
--->
 blzazddzadzaddafzead
 blzazddzadzaddafzeadblzazddzadzaddafzeadblzazddzadzaddafzeadvv
 blzazddzadzaddafzead
@@ -17,5 +13,5 @@ vblzazddzadzaddafzead
 blzazddzadzaddafzead
 blzazddzadzaddafzead
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTQwNDUyNV19
+eyJoaXN0b3J5IjpbLTcyMDE3NDk0N119
 -->
