@@ -13,8 +13,6 @@ I'm a french engineer from Paris, passionate about IA, and I enjoy experimentati
 
 This blog is a short portfolio for the cool projects I worked on in the last few years, as well as some blog post on subjects I like to talk about.
 
-My LinkedIn profile : https://www.linkedin.com/in/antonin-duval/
-
 ---
 
 ##UPDATE DECEMBER 2020 :
