@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Artificial Intelligence Enginneer"
+title: "Artificial Intelligence Engineer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
