@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a french engineer from Paris, passionate about IA, and I enjoy experimenting and find new fun projects.
-I've have work during a year and half in a consulting company as a Data Scientist, where I worked mostly on NLP.
-I'm finishing a MSc at CentraleSupélec in Artificial Intelligence which will end in 2020 and currently, I am working at Thales as a Research Engineer.
-My work is focus on the state-of-the-art methods in Reinforcement Learning, and I am particularly interested in the use of communication network in multi-agent system.
-This blog contains a short portfolio for some of the cool projects I worked on in the last years, as well as articles on subjects I wanted to talk about.
+I am a french engineer from Paris, passionate about IA. I will try to post on this website all the cool projects I have been part of,
+and share some blog post on interesting topics in AI.
+I am mostly interested by the field of reinforcement learning, but I have also worked on NLP and Computer Vision projects.
+You can find my resume[here](https://antoninduval.github.io/files/CV_Antonin_DUVAL_2020_EN.pdf) !
 
 ## UPDATE DECEMBER 2020 :
 I'm looking for a position as a Data Scientist/ Machine Learning Engineer / Research Engineer in Deep Learning starting in January 2021.
-Don't hesitate to contact me if you are interested by my profile.
+Feel free to contact me if you are interested by my profile.
 
 My latest post : [Using reinforcement learning to create an anthill](https://antoninduval.github.io/posts/2020/04/blog-post-2/)
