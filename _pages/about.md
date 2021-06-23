@@ -13,7 +13,7 @@ and share some blog post on interesting topics in AI.
 I am mostly interested by the field of reinforcement learning, but I have also worked on NLP and Computer Vision projects.
 You can find my resume [here](https://antoninduval.github.io/files/CV_Antonin_DUVAL_2020_EN.pdf) !
 
-## UPDATE MARCH 2021 :
+## UPDATE JUNE 2021 :
 I'm looking for a position as a Data Scientist/ Machine Learning Engineer / Research Engineer in Deep Learning starting in March 2021.
 Feel free to contact me if you are interested by my profile.
 
